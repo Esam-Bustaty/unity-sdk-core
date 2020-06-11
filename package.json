@@ -1,0 +1,6 @@
+{
+  "name": "com.ibm.cloud-sdk-core",
+  "version":"1.2.0",
+  "displayName":"IBM Cloud SDK Core",
+  "description":"The IBM Cloud Unity SDK Core is a core project of Unity SDKs generated using the IBM OpenAPI SDK generator."
+}
