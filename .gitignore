@@ -45,20 +45,6 @@ Assets/StreamingAssets/Config.json
 Assets/StreamingAssets/Config.json.meta
 
 # ============== #
-# Travis         #
-# ============== #
-
-/Travis/README.md.meta
-/Travis/TravisBuild.cs.meta
-/Travis/build.sh.meta
-/Travis/createProject.sh.meta
-/Travis/installSDK.sh.meta
-/Travis/installTestTools.sh.meta
-/Travis/installUnity.sh.meta
-/Travis/runTests.sh.meta
-Travis.meta
-
-# ============== #
 # Custom Ignores #
 # ============== #
 
